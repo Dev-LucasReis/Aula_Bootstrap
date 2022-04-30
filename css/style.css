@@ -1,0 +1,32 @@
+body{
+    font: 20px ariel, sans-serif ;
+}
+
+.quem-somos{
+    background-color: #222248;
+    color: white; 
+}
+
+.time{
+    padding-top: 10px;
+}
+
+.parceiros{
+    color: white;
+    background-color: orangered;
+}
+
+.servicos{
+    color: white;
+    background-color: crimson;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: brown;
+    color: whitesmoke;
+}
